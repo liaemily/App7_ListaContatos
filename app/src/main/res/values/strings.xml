@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">App7_ListaContatos</string>
+    <string name="app_name_contacts">Contatos</string>
+    <string name="app_name_new_user">Novo usuário</string>
+    <string name="app_name_new_contact">Novo contato</string>
+    <string name="hint_edittext_user">Usuário</string>
+    <string name="hint_edittext_password">Senha</string>
+    <string name="hint_edittext_confirm_password">Confirmar senha</string>
+    <string name="hint_edittext_surname">Apelido</string>
+    <string name="hint_edittext_phone">Telefone</string>
+    <string name="hint_edittext_name">Nome</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_newUser">Novo usuário</string>
+    <string name="btn_newContact">Novo contato</string>
+    <string name="btn_call">Ligar</string>
+    <string name="btn_save">Salvar</string>
+    <string name="invalid_password_message">Senha incorreta</string>
+    <string name="error_password_message">As senhas não conferem!</string>
+    <string name="invalid_user_message">O usuário não está cadastrado!</string>
+    <string name="registered_user_message">O usuário já está cadastrado!</string>
+    <string name="save_user_message">Usuário cadastrado!</string>
+    <string name="field_message">Preencha este campo!</string>
+    <string name="registered_contact_message">O contato já está cadastrado!</string>
+    <string name="save_contact_message">Contato cadastrado!</string>
+</resources>
